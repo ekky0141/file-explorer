@@ -484,6 +484,4 @@ def main(page: ft.Page):
     )
  
     load_directory()
- 
- 
 ft.app(target=main)
